@@ -146,4 +146,9 @@ OpenRouter lets LifeOps AI use OpenAI models with an OpenRouter API key (no sepa
 5. Open `http://127.0.0.1:8001` and try `Add prepare presentation tomorrow at 4 PM, high priority`.
 
 OpenRouter charges according to the selected model. The app silently falls back to rule-based parsing if the API request fails; check your OpenRouter usage dashboard if natural-language requests behave like basic commands.
-<img width="1907" height="971" alt="Pro1" src="https://github.com/user-attachments/assets/9bc85887-4cef-46ba-b411-db11f0f4d6a8" />
+<img width="1907" height="855" alt="Pro1" src="https://github.com/user-attachments/assets/64cb42d3-1250-47e4-b498-e9cc62c0a266" />
+<img width="1912" height="862" alt="Pro2" src="https://github.com/user-attachments/assets/9856ff49-8351-47f4-acfc-500cb069b36b" />
+<img width="1912" height="862" alt="Pro3" src="https://github.com/user-attachments/assets/c8798ade-d763-4b6f-87ce-dbc142d27854" />
+
+
+
